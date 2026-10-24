@@ -1,0 +1,5 @@
+host: localhost
+user: postgres
+database: xtd_labs
+password: 12FgTb1@C
+port: 5432
