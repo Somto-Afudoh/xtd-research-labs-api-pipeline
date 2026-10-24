@@ -1,0 +1,3 @@
+-- clear tables to remove samples from your db and allow original data to come in
+--TRUNCATE TABLE carbon.fact_carbon_intensity RESTART IDENTITY CASCADE;
+--TRUNCATE TABLE carbon.fact_generation_mix RESTART IDENTITY CASCADE;
